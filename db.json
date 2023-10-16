@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstname": "Akshay",
+      "lastname": "patil",
+      "email": "akshay@gmail.com",
+      "dob": "2023-10-17T18:30:00.000Z",
+      "gender": "1",
+      "company": "comunus",
+      "education": "master",
+      "exp": 1,
+      "package": 10,
+      "id": 2
+    },
+    {
+      "firstname": "usha",
+      "lastname": "utla",
+      "email": "usha@gmail.com",
+      "dob": "2023-10-05T18:30:00.000Z",
+      "gender": "2",
+      "company": "silk india",
+      "education": "degree",
+      "exp": 5,
+      "package": 1.5,
+      "id": 3
+    },
+    {
+      "firstname": "prabhas",
+      "lastname": "utla",
+      "email": "prabhasutla111@gmail.com",
+      "dob": "2003-05-06T18:30:00.000Z",
+      "gender": "1",
+      "company": "tech",
+      "education": "master",
+      "exp": 8,
+      "package": 25,
+      "id": 4
+    }
+  ]
+}
